@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name='Richie_utils',
+setup(name='utils',
       version='0.1',
       description='A utils package for me to practice package development',
-      url='https://github.com/Thomas-Richardson/Richie_utils',
+      url='https://github.com/Thomas-Richardson/utils',
       author='Richie',
       author_email='thomas.m.richardson@protonmail.com',
       license='MIT',
-      packages=['Richie_utils','Richie_utils.hello_world'],
+      packages=['utils','utils.hello_world'],
       zip_safe=False)
