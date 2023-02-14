@@ -7,5 +7,5 @@ setup(name='Richie_utils',
       author='Richie',
       author_email='thomas.m.richardson@protonmail.com',
       license='MIT',
-      packages=['Richie_utils'],
+      packages=['Richie_utils','Richie_utils.hello_world'],
       zip_safe=False)
